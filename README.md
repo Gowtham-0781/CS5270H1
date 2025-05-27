@@ -3,8 +3,8 @@
 ## University of Central Missouri
 **Course:** Neural Networks and Deep Learning  
 **Term:**  SUMMER 2025
-**Student Name:** SANTHOSH REDDY KISTIPATI 
-**Student ID:** [700776947]  
+**Student Name:** Naga Sai Gowtham Mulam
+**Student ID:** [700762369]  
 
 ## Overview of the Assignment
 This repository contains the solution for **Neural networks Assignment, covering fundamental deep learning concepts using TensorFlow. The assignment consists of four main tasks:
@@ -28,7 +28,7 @@ pip install tensorflow numpy matplotlib
 ## Execution Instructions
 Clone the repository and navigate to the directory:
 ```sh
-git clone https://github.com/vamsidama/Neural networks.git
+git clone (https://github.com/Gowtham-0781/CS5270H1/tree/main)
 cd Neural networks
 ```
 Run the script:
